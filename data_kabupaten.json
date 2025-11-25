@@ -1294,4 +1294,86 @@
 ]
 
 
+[
+  { "id_kabupaten": 7601, "id_provinsi": 76, "nama_kabupaten": "Kabupaten Majene" },
+  { "id_kabupaten": 7602, "id_provinsi": 76, "nama_kabupaten": "Kabupaten Polewali Mandar" },
+  { "id_kabupaten": 7603, "id_provinsi": 76, "nama_kabupaten": "Kabupaten Mamasa" },
+  { "id_kabupaten": 7604, "id_provinsi": 76, "nama_kabupaten": "Kabupaten Mamuju" },
+  { "id_kabupaten": 7605, "id_provinsi": 76, "nama_kabupaten": "Kabupaten Central Mamuju" },
+  { "id_kabupaten": 7671, "id_provinsi": 76, "nama_kabupaten": "Kota Mamuju" }
+]
+
+
+[
+  { "id_kabupaten": 8101, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Maluku Tenggara" },
+  { "id_kabupaten": 8102, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Maluku Tenggara Barat" },
+  { "id_kabupaten": 8103, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Maluku Tengah" },
+  { "id_kabupaten": 8104, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Buru" },
+  { "id_kabupaten": 8105, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Kepulauan Aru" },
+  { "id_kabupaten": 8106, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Seram Bagian Barat" },
+  { "id_kabupaten": 8107, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Seram Bagian Timur" },
+  { "id_kabupaten": 8108, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Maluku Barat Daya" },
+  { "id_kabupaten": 8109, "id_provinsi": 81, "nama_kabupaten": "Kabupaten Buru Selatan" },
+  { "id_kabupaten": 8171, "id_provinsi": 81, "nama_kabupaten": "Kota Ambon" },
+  { "id_kabupaten": 8172, "id_provinsi": 81, "nama_kabupaten": "Kota Tual" }
+]
+
+
+
+[
+  { "id_kabupaten": 8201, "id_provinsi": 82, "nama_kabupaten": "Kabupaten Halmahera Barat" },
+  { "id_kabupaten": 8202, "id_provinsi": 82, "nama_kabupaten": "Kabupaten Halmahera Tengah" },
+  { "id_kabupaten": 8203, "id_provinsi": 82, "nama_kabupaten": "Kabupaten Halmahera Utara" },
+  { "id_kabupaten": 8204, "id_provinsi": 82, "nama_kabupaten": "Kabupaten Halmahera Selatan" },
+  { "id_kabupaten": 8205, "id_provinsi": 82, "nama_kabupaten": "Kabupaten Kepulauan Sula" },
+  { "id_kabupaten": 8206, "id_provinsi": 82, "nama_kabupaten": "Kabupaten Halmahera Timur" },
+  { "id_kabupaten": 8207, "id_provinsi": 82, "nama_kabupaten": "Kabupaten Pulau Morotai" },
+  { "id_kabupaten": 8271, "id_provinsi": 82, "nama_kabupaten": "Kota Ternate" },
+  { "id_kabupaten": 8272, "id_provinsi": 82, "nama_kabupaten": "Kota Tidore Kepulauan" }
+]
+
+
+
+[
+  { "id_kabupaten": 9101, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Merauke" },
+  { "id_kabupaten": 9102, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Jayawijaya" },
+  { "id_kabupaten": 9103, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Puncak Jaya" },
+  { "id_kabupaten": 9104, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Jayapura" },
+  { "id_kabupaten": 9105, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Nabire" },
+  { "id_kabupaten": 9106, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Paniai" },
+  { "id_kabupaten": 9107, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Mimika" },
+  { "id_kabupaten": 9108, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Sarmi" },
+  { "id_kabupaten": 9109, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Keerom" },
+  { "id_kabupaten": 9110, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Bogor" },
+  { "id_kabupaten": 9111, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Yalimo" },
+  { "id_kabupaten": 9112, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Lanny Jaya" },
+  { "id_kabupaten": 9113, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Mamberamo Tengah" },
+  { "id_kabupaten": 9114, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Sarmi" },
+  { "id_kabupaten": 9115, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Puncak" },
+  { "id_kabupaten": 9116, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Dogiyai" },
+  { "id_kabupaten": 9117, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Intan Jaya" },
+  { "id_kabupaten": 9118, "id_provinsi": 91, "nama_kabupaten": "Kabupaten Deiyai" },
+  { "id_kabupaten": 9171, "id_provinsi": 91, "nama_kabupaten": "Kota Jayapura" }
+]
+
+
+
+[
+  { "id_kabupaten": 9201, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Fakfak" },
+  { "id_kabupaten": 9202, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Kaimana" },
+  { "id_kabupaten": 9203, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Teluk Wondama" },
+  { "id_kabupaten": 9204, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Teluk Bintuni" },
+  { "id_kabupaten": 9205, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Manokwari" },
+  { "id_kabupaten": 9206, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Sorong Selatan" },
+  { "id_kabupaten": 9207, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Sorong" },
+  { "id_kabupaten": 9208, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Raja Ampat" },
+  { "id_kabupaten": 9209, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Tambrauw" },
+  { "id_kabupaten": 9210, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Maybrat" },
+  { "id_kabupaten": 9211, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Manokwari Selatan" },
+  { "id_kabupaten": 9212, "id_provinsi": 92, "nama_kabupaten": "Kabupaten Pegunungan Arfak" },
+  { "id_kabupaten": 9271, "id_provinsi": 92, "nama_kabupaten": "Kota Sorong" }
+]
+
+
+
 
