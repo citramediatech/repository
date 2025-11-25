@@ -1101,6 +1101,106 @@
      🟨 KOTA (71–72)
      ============================== */
   { "id_kabupaten": "9271", "id_provinsi": "92", "nama_kabupaten": "Kota Sorong" },
-  { "id_kabupaten": "9272", "id_provinsi": "92", "nama_kabupaten": "Kota Manokwari" }
+  { "id_kabupaten": "9272", "id_provinsi": "92", "nama_kabupaten": "Kota Manokwari" },
+
+
+
+/* ====================================================================
+   🏷️ PROVINSI PAPUA PEGUNUNGAN — ID_PROVINSI = 93
+   Daftar Kabupaten/Kota (Kode Wilayah Nasional)
+   ==================================================================== */
+
+
+  /* ==============================
+     🟦 KABUPATEN (01–8)
+     ============================== */
+  { "id_kabupaten": "9301", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Lanny Jaya" },
+  { "id_kabupaten": "9302", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Mamberamo Tengah" },
+  { "id_kabupaten": "9303", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Nduga" },
+  { "id_kabupaten": "9304", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Yalimo" },
+  { "id_kabupaten": "9305", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Puncak" },
+  { "id_kabupaten": "9306", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Puncak Jaya" },
+  { "id_kabupaten": "9307", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Intan Jaya" },
+  { "id_kabupaten": "9308", "id_provinsi": "93", "nama_kabupaten": "Kabupaten Dogiyai" },
+
+  /* ==============================
+     🟨 KOTA (71)
+     ============================== */
+  { "id_kabupaten": "9371", "id_provinsi": "93", "nama_kabupaten": "Kota Wamena" },
+
+
+/* ====================================================================
+   🏷️ PROVINSI PAPUA SELATAN — ID_PROVINSI = 94
+   Daftar Kabupaten/Kota (Kode Wilayah Nasional)
+   ==================================================================== */
+
+
+  /* ==============================
+     🟦 KABUPATEN (01–10)
+     ============================== */
+  { "id_kabupaten": "9401", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Merauke" },
+  { "id_kabupaten": "9402", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Boven Digoel" },
+  { "id_kabupaten": "9403", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Mappi" },
+  { "id_kabupaten": "9404", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Asmat" },
+  { "id_kabupaten": "9405", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Yalimo" },
+  { "id_kabupaten": "9406", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Pegunungan Bintang" },
+  { "id_kabupaten": "9407", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Jayawijaya" },
+  { "id_kabupaten": "9408", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Tolikara" },
+  { "id_kabupaten": "9409", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Puncak" },
+  { "id_kabupaten": "9410", "id_provinsi": "94", "nama_kabupaten": "Kabupaten Lanny Jaya" },
+
+  /* ==============================
+     🟨 KOTA (71–72)
+     ============================== */
+  { "id_kabupaten": "9471", "id_provinsi": "94", "nama_kabupaten": "Kota Merauke" },
+  { "id_kabupaten": "9472", "id_provinsi": "94", "nama_kabupaten": "Kota Timika" },
+
+
+/* ====================================================================
+   🏷️ PROVINSI PAPUA BARAT DAYA — ID_PROVINSI = 95
+   Daftar Kabupaten/Kota (Kode Wilayah Nasional)
+   ==================================================================== */
+
+[
+  /* ==============================
+     🟦 KABUPATEN (01–6)
+     ============================== */
+  { "id_kabupaten": "9501", "id_provinsi": "95", "nama_kabupaten": "Kabupaten Sorong Selatan" },
+  { "id_kabupaten": "9502", "id_provinsi": "95", "nama_kabupaten": "Kabupaten Raja Ampat" },
+  { "id_kabupaten": "9503", "id_provinsi": "95", "nama_kabupaten": "Kabupaten Tambrauw" },
+  { "id_kabupaten": "9504", "id_provinsi": "95", "nama_kabupaten": "Kabupaten Maybrat" },
+  { "id_kabupaten": "9505", "id_provinsi": "95", "nama_kabupaten": "Kabupaten Manokwari Selatan" },
+  { "id_kabupaten": "9506", "id_provinsi": "95", "nama_kabupaten": "Kabupaten Pegunungan Arfak" },
+
+  /* ==============================
+     🟨 KOTA (71)
+     ============================== */
+  { "id_kabupaten": "9571", "id_provinsi": "95", "nama_kabupaten": "Kota Sorong" },
+
+
+/* ====================================================================
+   🏷️ PROVINSI PAPUA TENGAH — ID_PROVINSI = 96
+   Daftar Kabupaten/Kota (Kode Wilayah Nasional)
+   ==================================================================== */
+
+
+  /* ==============================
+     🟦 KABUPATEN (01–8)
+     ============================== */
+  { "id_kabupaten": "9601", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Puncak" },
+  { "id_kabupaten": "9602", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Paniai" },
+  { "id_kabupaten": "9603", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Dogiyai" },
+  { "id_kabupaten": "9604", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Deiyai" },
+  { "id_kabupaten": "9605", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Intan Jaya" },
+  { "id_kabupaten": "9606", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Mimika" },
+  { "id_kabupaten": "9607", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Jayawijaya" },
+  { "id_kabupaten": "9608", "id_provinsi": "96", "nama_kabupaten": "Kabupaten Yahukimo" },
+
+  /* ==============================
+     🟨 KOTA (71)
+     ============================== */
+  { "id_kabupaten": "9671", "id_provinsi": "96", "nama_kabupaten": "Kota Timika" }
 ]
+
+
 
