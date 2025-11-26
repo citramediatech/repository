@@ -1,6 +1,4 @@
-/* ============================================================
-    PROVINSI  RESMI KEMENDAGRI 
-   ============================================================ */
+
 [
   { "id_provinsi": "11", "nama_provinsi": "Aceh", "nama_ibukota": "Banda Aceh" },
   { "id_provinsi": "12", "nama_provinsi": "Sumatera Utara", "nama_ibukota": "Medan" },
@@ -46,8 +44,8 @@
   { "id_provinsi": "93", "nama_provinsi": "Papua Selatan", "nama_ibukota": "Merauke" },
   { "id_provinsi": "94", "nama_provinsi": "Papua Tengah", "nama_ibukota": "Nabire" },
   { "id_provinsi": "95", "nama_provinsi": "Papua Pegunungan", "nama_ibukota": "Wamena" },
-  { "id_provinsi": "96", "nama_provinsi": "Papua Barat Daya", "nama_ibukota": "Sorong" },
-
+  { "id_provinsi": "96", "nama_provinsi": "Papua Barat Daya", "nama_ibukota": "Sorong" }
+]
 
 /* ============================================================
    🏷️ PROVINSI ACEH — KODE WILAYAH RESMI NASIONAL (ID: 11)
