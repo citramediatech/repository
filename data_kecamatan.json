@@ -1,1 +1,119 @@
+[
+{ "id_kecamatan": "1101010", "id_kabupaten": "1101", "id_provinsi": "11", "nama_kecamatan": "Danau Paris" },
+{ "id_kecamatan": "1101020", "id_kabupaten": "1101", "id_provinsi": "11", "nama_kecamatan": "Kota Bahagia" },
+{ "id_kecamatan": "1101030", "id_kabupaten": "1101", "id_provinsi": "11", "nama_kecamatan": "Pulau Banyak" },
+{ "id_kecamatan": "1101040", "id_kabupaten": "1101", "id_provinsi": "11", "nama_kecamatan": "Singkil" },
+{ "id_kecamatan": "1101050", "id_kabupaten": "1101", "id_provinsi": "11", "nama_kecamatan": "Singkil Utara" },
+{ "id_kecamatan": "1101060", "id_kabupaten": "1101", "id_provinsi": "11", "nama_kecamatan": "Simpang Kanan" }
 
+{ "id_kecamatan": "1102010", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Bakongan" },
+{ "id_kecamatan": "1102020", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Bakongan Timur" },
+{ "id_kecamatan": "1102030", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Kluet Selatan" },
+{ "id_kecamatan": "1102040", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Kluet Tengah" },
+{ "id_kecamatan": "1102050", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Kluet Utara" },
+{ "id_kecamatan": "1102060", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Labuhanhaji" },
+{ "id_kecamatan": "1102070", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Labuhanhaji Timur" },
+{ "id_kecamatan": "1102080", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Meukek" },
+{ "id_kecamatan": "1102090", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Musa Makmur" },
+{ "id_kecamatan": "1102100", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Sama Dua" },
+{ "id_kecamatan": "1102110", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Tapak Tuan" },
+{ "id_kecamatan": "1102120", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Trumon" },
+{ "id_kecamatan": "1102130", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Trumon Tengah" },
+{ "id_kecamatan": "1102140", "id_kabupaten": "1102", "id_provinsi": "11", "nama_kecamatan": "Trumon Timur" }
+
+
+{ "id_kecamatan": "1103010", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Babussalam" },
+{ "id_kecamatan": "1103020", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Babul Makmur" },
+{ "id_kecamatan": "1103030", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Darul Hasanah" },
+{ "id_kecamatan": "1103040", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Darul Falah" },
+{ "id_kecamatan": "1103050", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Lawe Bulan" },
+{ "id_kecamatan": "1103060", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Lawe Sigala-Gala" },
+{ "id_kecamatan": "1103070", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Lawe Sumur" },
+{ "id_kecamatan": "1103080", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Leuser" },
+{ "id_kecamatan": "1103090", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Semadam" },
+{ "id_kecamatan": "1103100", "id_kabupaten": "1103", "id_provinsi": "11", "nama_kecamatan": "Simpang Kiri" }
+
+
+{ "id_kecamatan": "1104010", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Banda Alam" },
+{ "id_kecamatan": "1104020", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Birem Bayeun" },
+{ "id_kecamatan": "1104030", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Darul Iksan" },
+{ "id_kecamatan": "1104040", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Idi Rayeuk" },
+{ "id_kecamatan": "1104050", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Idi Timur" },
+{ "id_kecamatan": "1104060", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Nurussalam" },
+{ "id_kecamatan": "1104070", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Peudawa" },
+{ "id_kecamatan": "1104080", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Simpang Ulim" },
+{ "id_kecamatan": "1104090", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Sungai Raya" },
+{ "id_kecamatan": "1104100", "id_kabupaten": "1104", "id_provinsi": "11", "nama_kecamatan": "Sungai Mas" }
+
+
+{ "id_kecamatan": "1105010", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Bebesen" },
+{ "id_kecamatan": "1105020", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Bintang" },
+{ "id_kecamatan": "1105030", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Celala" },
+{ "id_kecamatan": "1105040", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Jagong Jeget" },
+{ "id_kecamatan": "1105050", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Kebayakan" },
+{ "id_kecamatan": "1105060", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Ketol" },
+{ "id_kecamatan": "1105070", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Linge" },
+{ "id_kecamatan": "1105080", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Pegasing" },
+{ "id_kecamatan": "1105090", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Rusip Antara" },
+{ "id_kecamatan": "1105100", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Silih Nara" },
+{ "id_kecamatan": "1105110", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Bies" },
+{ "id_kecamatan": "1105120", "id_kabupaten": "1105", "id_provinsi": "11", "nama_kecamatan": "Celala" }
+
+
+
+{ "id_kecamatan": "1106010", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Bubon" },
+{ "id_kecamatan": "1106020", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Johan Pahlawan" },
+{ "id_kecamatan": "1106030", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Kaway XVI" },
+{ "id_kecamatan": "1106040", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Meureubo" },
+{ "id_kecamatan": "1106050", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Panton Reu" },
+{ "id_kecamatan": "1106060", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Samatiga" },
+{ "id_kecamatan": "1106070", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Suka Makmue" },
+{ "id_kecamatan": "1106080", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Woyla" },
+{ "id_kecamatan": "1106090", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Woyla Barat" },
+{ "id_kecamatan": "1106100", "id_kabupaten": "1106", "id_provinsi": "11", "nama_kecamatan": "Woyla Timur" }
+
+
+  
+{ "id_kecamatan": "1107010", "id_kabupaten": "1107", "id_provinsi": "11", "nama_kecamatan": "Babah Rot" },
+{ "id_kecamatan": "1107020", "id_kabupaten": "1107", "id_provinsi": "11", "nama_kecamatan": "Blang Pidie" },
+{ "id_kecamatan": "1107030", "id_kabupaten": "1107", "id_provinsi": "11", "nama_kecamatan": "Jeumpa" },
+{ "id_kecamatan": "1107040", "id_kabupaten": "1107", "id_provinsi": "11", "nama_kecamatan": "Kuala Batee" },
+{ "id_kecamatan": "1107050", "id_kabupaten": "1107", "id_provinsi": "11", "nama_kecamatan": "Lembah Sabil" },
+{ "id_kecamatan": "1107060", "id_kabupaten": "1107", "id_provinsi": "11", "nama_kecamatan": "Manggeng" },
+{ "id_kecamatan": "1107070", "id_kabupaten": "1107", "id_provinsi": "11", "nama_kecamatan": "Setia" }
+
+
+{ "id_kecamatan": "1108010", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Baiturrahman" },
+{ "id_kecamatan": "1108020", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Banda Raya" },
+{ "id_kecamatan": "1108030", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Blang Bintang" },
+{ "id_kecamatan": "1108040", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Darul Imarah" },
+{ "id_kecamatan": "1108050", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Indrapuri" },
+{ "id_kecamatan": "1108060", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Ingin Jaya" },
+{ "id_kecamatan": "1108070", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Kota Jantho" },
+{ "id_kecamatan": "1108080", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Krueng Barona Jaya" },
+{ "id_kecamatan": "1108090", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Leupung" },
+{ "id_kecamatan": "1108100", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Lhoknga" },
+{ "id_kecamatan": "1108110", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Lhoong" },
+{ "id_kecamatan": "1108120", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Montasik" },
+{ "id_kecamatan": "1108130", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Mesjid Raya" },
+{ "id_kecamatan": "1108140", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Peukan Bada" },
+{ "id_kecamatan": "1108150", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Suka Makmue" },
+{ "id_kecamatan": "1108160", "id_kabupaten": "1108", "id_provinsi": "11", "nama_kecamatan": "Simpang Tiga" }
+
+
+{ "id_kecamatan": "1109010", "id_kabupaten": "1109", "id_provinsi": "11", "nama_kecamatan": "Jaya" },
+{ "id_kecamatan": "1109020", "id_kabupaten": "1109", "id_provinsi": "11", "nama_kecamatan": "Keude Panga" },
+{ "id_kecamatan": "1109030", "id_kabupaten": "1109", "id_provinsi": "11", "nama_kecamatan": "Pasie Raya" },
+{ "id_kecamatan": "1109040", "id_kabupaten": "1109", "id_provinsi": "11", "nama_kecamatan": "Panga" },
+{ "id_kecamatan": "1109050", "id_kabupaten": "1109", "id_provinsi": "11", "nama_kecamatan": "Teunom" }
+
+
+
+{ "id_kecamatan": "1110010", "id_kabupaten": "1110", "id_provinsi": "11", "nama_kecamatan": "Baktiya" },
+{ "id_kecamatan": "1110020", "id_kabupaten": "1110", "id_provinsi": "11", "nama_kecamatan": "Baktiya Barat" },
+{ "id_kecamatan": "1110030", "id_kabupaten": "1110", "id_provinsi": "11", "nama_kecamatan": "Simpang Keramat" },
+{ "id_kecamatan": "1110040", "id_kabupaten": "1110", "id_provinsi": "11", "nama_kecamatan": "Sawang" }
+
+
+  
+]
