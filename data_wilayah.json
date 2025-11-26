@@ -65,9 +65,7 @@
   { "id_kabupaten": "1117", "id_provinsi": "11", "nama_kabupaten": "Kabupaten Bener Meriah" },
   { "id_kabupaten": "1118", "id_provinsi": "11", "nama_kabupaten": "Kabupaten Pidie Jaya" },
 
-  /* ------------------------------------------------------------
-     🏙️ KOTA DI PROVINSI ACEH
-     ------------------------------------------------------------ */
+
   { "id_kabupaten": "1171", "id_provinsi": "11", "nama_kabupaten": "Kota Banda Aceh" },
   { "id_kabupaten": "1172", "id_provinsi": "11", "nama_kabupaten": "Kota Sabang" },
   { "id_kabupaten": "1173", "id_provinsi": "11", "nama_kabupaten": "Kota Langsa" },
@@ -75,17 +73,6 @@
   { "id_kabupaten": "1175", "id_provinsi": "11", "nama_kabupaten": "Kota Subulussalam" },
 
 
-
-/* ============================================================
-   🏷️ PROVINSI SUMATERA UTARA — KODE WILAYAH RESMI NASIONAL
-   ID PROVINSI : 12
-   Daftar Kabupaten dan Kota lengkap sesuai Kemendagri/BPS
-   ============================================================ */
-
-
-  /* ------------------------------------------------------------
-     📌 KABUPATEN DI PROVINSI SUMATERA UTARA
-     ------------------------------------------------------------ */
   { "id_kabupaten": "1201", "id_provinsi": "12", "nama_kabupaten": "Kabupaten Nias" },
   { "id_kabupaten": "1202", "id_provinsi": "12", "nama_kabupaten": "Kabupaten Mandailing Natal" },
   { "id_kabupaten": "1203", "id_provinsi": "12", "nama_kabupaten": "Kabupaten Tapanuli Selatan" },
@@ -112,9 +99,6 @@
   { "id_kabupaten": "1224", "id_provinsi": "12", "nama_kabupaten": "Kabupaten Nias Utara" },
   { "id_kabupaten": "1225", "id_provinsi": "12", "nama_kabupaten": "Kabupaten Nias Barat" },
 
-  /* ------------------------------------------------------------
-     🏙️ KOTA DI PROVINSI SUMATERA UTARA
-     ------------------------------------------------------------ */
   { "id_kabupaten": "1271", "id_provinsi": "12", "nama_kabupaten": "Kota Sibolga" },
   { "id_kabupaten": "1272", "id_provinsi": "12", "nama_kabupaten": "Kota Tanjung Balai" },
   { "id_kabupaten": "1273", "id_provinsi": "12", "nama_kabupaten": "Kota Pematang Siantar" },
@@ -125,16 +109,6 @@
   { "id_kabupaten": "1278", "id_provinsi": "12", "nama_kabupaten": "Kota Gunungsitoli" },
 
 
-
-/* ============================================================
-   🏷️ PROVINSI SUMATERA BARAT — ID_PROVINSI = 13
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ============================================================ */
-
-[
-  /* ============================
-     🟦 DAFTAR KABUPATEN (01–12)
-     ============================ */
   { "id_kabupaten": "1301", "id_provinsi": "13", "nama_kabupaten": "Kabupaten Kepulauan Mentawai" },
   { "id_kabupaten": "1302", "id_provinsi": "13", "nama_kabupaten": "Kabupaten Pesisir Selatan" },
   { "id_kabupaten": "1303", "id_provinsi": "13", "nama_kabupaten": "Kabupaten Solok" },
@@ -148,9 +122,7 @@
   { "id_kabupaten": "1311", "id_provinsi": "13", "nama_kabupaten": "Kabupaten Dharmasraya" },
   { "id_kabupaten": "1312", "id_provinsi": "13", "nama_kabupaten": "Kabupaten Pasaman Barat" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71–77)
-     ============================ */
+
   { "id_kabupaten": "1371", "id_provinsi": "13", "nama_kabupaten": "Kota Padang" },
   { "id_kabupaten": "1372", "id_provinsi": "13", "nama_kabupaten": "Kota Solok" },
   { "id_kabupaten": "1373", "id_provinsi": "13", "nama_kabupaten": "Kota Sawahlunto" },
@@ -160,15 +132,6 @@
   { "id_kabupaten": "1377", "id_provinsi": "13", "nama_kabupaten": "Kota Pariaman" },
 
 
-/* ============================================================
-   🏷️ PROVINSI RIAU — ID_PROVINSI = 14
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ============================================================ */
-
-
-  /* ============================
-     🟦 DAFTAR KABUPATEN (01–11)
-     ============================ */
   { "id_kabupaten": "1401", "id_provinsi": "14", "nama_kabupaten": "Kabupaten Kuantan Singingi" },
   { "id_kabupaten": "1402", "id_provinsi": "14", "nama_kabupaten": "Kabupaten Indragiri Hulu" },
   { "id_kabupaten": "1403", "id_provinsi": "14", "nama_kabupaten": "Kabupaten Indragiri Hilir" },
@@ -180,23 +143,12 @@
   { "id_kabupaten": "1409", "id_provinsi": "14", "nama_kabupaten": "Kabupaten Rokan Hilir" },
   { "id_kabupaten": "1410", "id_provinsi": "14", "nama_kabupaten": "Kabupaten Kepulauan Meranti" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71–72)
-     ============================ */
+ 
   { "id_kabupaten": "1471", "id_provinsi": "14", "nama_kabupaten": "Kota Pekanbaru" },
   { "id_kabupaten": "1472", "id_provinsi": "14", "nama_kabupaten": "Kota Dumai" },
 
 
 
-/* ============================================================
-   🏷️ PROVINSI JAMBI — ID_PROVINSI = 15
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ============================================================ */
-
-
-  /* ============================
-     🟦 DAFTAR KABUPATEN (01–09)
-     ============================ */
   { "id_kabupaten": "1501", "id_provinsi": "15", "nama_kabupaten": "Kabupaten Kerinci" },
   { "id_kabupaten": "1502", "id_provinsi": "15", "nama_kabupaten": "Kabupaten Merangin" },
   { "id_kabupaten": "1503", "id_provinsi": "15", "nama_kabupaten": "Kabupaten Sarolangun" },
@@ -207,23 +159,12 @@
   { "id_kabupaten": "1508", "id_provinsi": "15", "nama_kabupaten": "Kabupaten Tebo" },
   { "id_kabupaten": "1509", "id_provinsi": "15", "nama_kabupaten": "Kabupaten Bungo" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71–72)
-     ============================ */
   { "id_kabupaten": "1571", "id_provinsi": "15", "nama_kabupaten": "Kota Jambi" },
   { "id_kabupaten": "1572", "id_provinsi": "15", "nama_kabupaten": "Kota Sungai Penuh" },
 
 
 
-/* ============================================================
-   🏷️ PROVINSI SUMATERA SELATAN — ID_PROVINSI = 16
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ============================================================ */
 
-
-  /* ============================
-     🟦 DAFTAR KABUPATEN (01–13)
-     ============================ */
   { "id_kabupaten": "1601", "id_provinsi": "16", "nama_kabupaten": "Kabupaten Ogan Komering Ulu" },
   { "id_kabupaten": "1602", "id_provinsi": "16", "nama_kabupaten": "Kabupaten Ogan Komering Ilir" },
   { "id_kabupaten": "1603", "id_provinsi": "16", "nama_kabupaten": "Kabupaten Muara Enim" },
@@ -238,19 +179,12 @@
   { "id_kabupaten": "1612", "id_provinsi": "16", "nama_kabupaten": "Kabupaten Penukal Abab Lematang Ilir" },
   { "id_kabupaten": "1613", "id_provinsi": "16", "nama_kabupaten": "Kabupaten Musi Rawas Utara" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71–73)
-     ============================ */
+
   { "id_kabupaten": "1671", "id_provinsi": "16", "nama_kabupaten": "Kota Palembang" },
   { "id_kabupaten": "1672", "id_provinsi": "16", "nama_kabupaten": "Kota Prabumulih" },
   { "id_kabupaten": "1673", "id_provinsi": "16", "nama_kabupaten": "Kota Pagar Alam" },
   { "id_kabupaten": "1674", "id_provinsi": "16", "nama_kabupaten": "Kota Lubuklinggau" },
 
-
-/* ============================================================
-   🏷️ PROVINSI BENGKULU — ID_PROVINSI = 17
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ============================================================ */
 
 
 
@@ -264,16 +198,9 @@
   { "id_kabupaten": "1708", "id_provinsi": "17", "nama_kabupaten": "Kabupaten Kepahiang" },
   { "id_kabupaten": "1709", "id_provinsi": "17", "nama_kabupaten": "Kabupaten Bengkulu Tengah" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71)
-     ============================ */
+
   { "id_kabupaten": "1771", "id_provinsi": "17", "nama_kabupaten": "Kota Bengkulu" },
 
-
-/* ============================================================
-   🏷️ PROVINSI LAMPUNG — ID_PROVINSI = 18
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ============================================================ */
 
 
     
@@ -291,23 +218,12 @@
   { "id_kabupaten": "1812", "id_provinsi": "18", "nama_kabupaten": "Kabupaten Tulang Bawang Barat" },
   { "id_kabupaten": "1813", "id_provinsi": "18", "nama_kabupaten": "Kabupaten Pesisir Barat" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71–73)
-     ============================ */
   { "id_kabupaten": "1871", "id_provinsi": "18", "nama_kabupaten": "Kota Bandar Lampung" },
   { "id_kabupaten": "1872", "id_provinsi": "18", "nama_kabupaten": "Kota Metro" },
 
 
 
-/* ====================================================================
-   🏷️ PROVINSI KEPULAUAN BANGKA BELITUNG — ID_PROVINSI = 19
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ==================================================================== */
 
-
-  /* ============================
-     🟦 DAFTAR KABUPATEN (01–06)
-     ============================ */
   { "id_kabupaten": "1901", "id_provinsi": "19", "nama_kabupaten": "Kabupaten Bangka" },
   { "id_kabupaten": "1902", "id_provinsi": "19", "nama_kabupaten": "Kabupaten Belitung" },
   { "id_kabupaten": "1903", "id_provinsi": "19", "nama_kabupaten": "Kabupaten Bangka Barat" },
@@ -315,49 +231,26 @@
   { "id_kabupaten": "1905", "id_provinsi": "19", "nama_kabupaten": "Kabupaten Bangka Selatan" },
   { "id_kabupaten": "1906", "id_provinsi": "19", "nama_kabupaten": "Kabupaten Belitung Timur" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71)
-     ============================ */
+
   { "id_kabupaten": "1971", "id_provinsi": "19", "nama_kabupaten": "Kota Pangkalpinang" },
 
 
 
-/* ====================================================================
-   🏷️ PROVINSI KEPULAUAN RIAU — ID_PROVINSI = 21
-   Daftar Kabupaten dan Kota sesuai Kode Wilayah Nasional (Kemendagri)
-   ==================================================================== */
 
-
-  /* ============================
-     🟦 DAFTAR KABUPATEN (01–07)
-     ============================ */
   { "id_kabupaten": "2101", "id_provinsi": "21", "nama_kabupaten": "Kabupaten Bintan" },
   { "id_kabupaten": "2102", "id_provinsi": "21", "nama_kabupaten": "Kabupaten Karimun" },
   { "id_kabupaten": "2103", "id_provinsi": "21", "nama_kabupaten": "Kabupaten Natuna" },
   { "id_kabupaten": "2104", "id_provinsi": "21", "nama_kabupaten": "Kabupaten Lingga" },
   { "id_kabupaten": "2105", "id_provinsi": "21", "nama_kabupaten": "Kabupaten Kepulauan Anambas" },
 
-  /* ============================
-     🟨 DAFTAR KOTA (71–73)
-     ============================ */
   { "id_kabupaten": "2171", "id_provinsi": "21", "nama_kabupaten": "Kota Batam" },
   { "id_kabupaten": "2172", "id_provinsi": "21", "nama_kabupaten": "Kota Tanjungpinang" },
 
 
-/* ====================================================================
-   🏷️ PROVINSI DKI JAKARTA — ID_PROVINSI = 31
-   Daftar Kabupaten/Kota Administratif (Kode Wilayah Nasional)
-   ==================================================================== */
 
 
-  /* ===============================
-     🟦 KABUPATEN ADMINISTRASI (01)
-     =============================== */
   { "id_kabupaten": "3101", "id_provinsi": "31", "nama_kabupaten": "Kabupaten Kepulauan Seribu" },
 
-  /* ==============================
-     🟨 KOTA ADMINISTRASI (71–75)
-     ============================== */
   { "id_kabupaten": "3171", "id_provinsi": "31", "nama_kabupaten": "Kota Jakarta Selatan" },
   { "id_kabupaten": "3172", "id_provinsi": "31", "nama_kabupaten": "Kota Jakarta Timur" },
   { "id_kabupaten": "3173", "id_provinsi": "31", "nama_kabupaten": "Kota Jakarta Pusat" },
@@ -365,16 +258,6 @@
   { "id_kabupaten": "3175", "id_provinsi": "31", "nama_kabupaten": "Kota Jakarta Utara" },
 
 
-
-/* ====================================================================
-   🏷️ PROVINSI JAWA BARAT — ID_PROVINSI = 32
-   Daftar Kabupaten dan Kota (Kode Wilayah Nasional BPS)
-   ==================================================================== */
-
-
-  /* ============================
-     🟦 KABUPATEN (3201–3218)
-     ============================ */
     
   { "id_kabupaten": "3201", "id_provinsi": "32", "nama_kabupaten": "Kabupaten Bogor" },
   { "id_kabupaten": "3202", "id_provinsi": "32", "nama_kabupaten": "Kabupaten Sukabumi" },
@@ -395,9 +278,6 @@
   { "id_kabupaten": "3217", "id_provinsi": "32", "nama_kabupaten": "Kabupaten Bandung Barat" },
   { "id_kabupaten": "3218", "id_provinsi": "32", "nama_kabupaten": "Kabupaten Pangandaran" },
 
-  /* ========================================
-     🟨 KOTA (3271–3279)
-     ======================================== */
   { "id_kabupaten": "3271", "id_provinsi": "32", "nama_kabupaten": "Kota Bogor" },
   { "id_kabupaten": "3272", "id_provinsi": "32", "nama_kabupaten": "Kota Sukabumi" },
   { "id_kabupaten": "3273", "id_provinsi": "32", "nama_kabupaten": "Kota Bandung" },
@@ -410,15 +290,6 @@
 
 
 
-/* ====================================================================
-   🏷️ PROVINSI JAWA TENGAH — ID_PROVINSI = 33
-   Daftar Kabupaten dan Kota (Kode Wilayah Nasional BPS)
-   ==================================================================== */
-
-
-  /* ============================
-     🟦 KABUPATEN (3301–3329)
-     ============================ */
   { "id_kabupaten": "3301", "id_provinsi": "33", "nama_kabupaten": "Kabupaten Cilacap" },
   { "id_kabupaten": "3302", "id_provinsi": "33", "nama_kabupaten": "Kabupaten Banyumas" },
   { "id_kabupaten": "3303", "id_provinsi": "33", "nama_kabupaten": "Kabupaten Purbalingga" },
@@ -449,9 +320,7 @@
   { "id_kabupaten": "3328", "id_provinsi": "33", "nama_kabupaten": "Kabupaten Tegal" },
   { "id_kabupaten": "3329", "id_provinsi": "33", "nama_kabupaten": "Kabupaten Brebes" },
 
-  /* ==============================
-     🟨 KOTA (3371–3376)
-     ============================== */
+
   { "id_kabupaten": "3371", "id_provinsi": "33", "nama_kabupaten": "Kota Magelang" },
   { "id_kabupaten": "3372", "id_provinsi": "33", "nama_kabupaten": "Kota Surakarta" },
   { "id_kabupaten": "3373", "id_provinsi": "33", "nama_kabupaten": "Kota Salatiga" },
@@ -512,7 +381,6 @@
   { "id_kabupaten": "3577", "id_provinsi": "35", "nama_kabupaten": "Kota Madiun" },
   { "id_kabupaten": "3578", "id_provinsi": "35", "nama_kabupaten": "Kota Surabaya" },
 
-     =========================== */
   { "id_kabupaten": "3601", "id_provinsi": "36", "nama_kabupaten": "Kabupaten Pandeglang" },
   { "id_kabupaten": "3602", "id_provinsi": "36", "nama_kabupaten": "Kabupaten Lebak" },
   { "id_kabupaten": "3603", "id_provinsi": "36", "nama_kabupaten": "Kabupaten Tangerang" },
